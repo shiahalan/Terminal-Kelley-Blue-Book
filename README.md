@@ -4,6 +4,6 @@ A program that allows you to run a server-side and client-side. The server-side 
 
 
 ## Usage
-Two folders labelled Client and Server will be available. Please open both on different IDE windows, since they are running two separate programs. From the Server folder, please locate the driver folder. Then run server.java. This will start up the server. On the other window, from the Client folder, please locate the driver folder. Then run the client.java program, which will have the client connect to your already running server. Upon connection being established, the server-side window will display "Connection Established," while the client-side will display a menu in the terminal. 
+Two folders labelled Client and Server will be available. Please open both on different IDE windows, since they are running two separate programs. From the Server folder, please locate the driver folder. Then run serverRun.java. This will start up the server. On the other window, from the Client folder, please locate the driver folder. Then run the clientRun.java program, which will have the client connect to your already running server. Upon connection being established, the server-side window will display "Connection Established," while the client-side will display a menu in the terminal. 
 
 You may then upload example.properties to send a file with car data.
