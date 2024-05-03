@@ -1,0 +1,12 @@
+Toyota
+Prius
+12899
+4
+Color|10
+Fort Knox Gold Clearcoat Metallic|0|Liquid Grey Clearcoat Metallic|0|Infra-Red Clearcoat|0|Grabber Green Clearcoat Metallic|0|Sangria Red Clearcoat Metallic|0|French Blue Clearcoat Metallic|0|Twilight Blue Clearcoat Metallic|0|CD Silver Clearcoat Metallic|0|Pitch Black Clearcoat|0|Cloud 9 White Clearcoat|0
+Transmission|2
+Automatic|0|Manual|-428
+Brakes|3
+Standard|0|ABS|123|ABS with Advance Trac|1390
+Side Impact Air Bags|2
+Present|0|Not Present|328

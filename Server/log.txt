@@ -1,0 +1,40 @@
+Time Stamp: 2023/02/01 21:07:07 ::: Err No.: 0 ::: Missing filename
+Time Stamp: 2023/02/01 21:10:10 ::: Err No.: 0 ::: Missing filename
+Time Stamp: 2023/02/01 21:10:15 ::: Err No.: 0 ::: Missing filename
+Time Stamp: 2023/02/01 21:11:13 ::: Err No.: 0 ::: Missing filename
+Time Stamp: 2023/02/01 21:12:01 ::: Err No.: 0 ::: Missing filename
+Time Stamp: 2023/02/01 21:12:53 ::: Err No.: 1 ::: Missing filename
+Time Stamp: 2023/02/01 21:30:01 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:30:22 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:30:41 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:31:18 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:33:48 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:34:16 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:37:19 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:38:49 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:39:24 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:39:24 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 21:41:37 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:41:37 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 21:45:54 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:45:54 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 21:45:54 ::: Err No.: 4 ::: Missing base price
+Time Stamp: 2023/02/01 21:52:55 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:52:55 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 21:52:55 ::: Err No.: 4 ::: Missing base price
+Time Stamp: 2023/02/01 21:53:43 ::: Err No.: 2 ::: Missing make
+Time Stamp: 2023/02/01 21:53:43 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 21:53:43 ::: Err No.: 4 ::: Missing base price
+Time Stamp: 2023/02/01 21:53:43 ::: Err No.: 5 ::: Missing option set name or length
+Time Stamp: 2023/02/01 21:57:42 ::: Err No.: 6 ::: Missing optionset array size
+Time Stamp: 2023/02/01 21:58:04 ::: Err No.: 6 ::: Missing optionset array size
+Time Stamp: 2023/02/01 22:04:11 ::: Err No.: 1 ::: Missing filename
+Time Stamp: 2023/02/01 22:04:17 ::: Err No.: 1 ::: Missing filename
+Time Stamp: 2023/02/01 22:04:30 ::: Err No.: 1 ::: Missing filename
+Time Stamp: 2023/02/01 22:04:39 ::: Err No.: 1 ::: Missing filename
+Time Stamp: 2023/02/01 22:05:16 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 22:08:35 ::: Err No.: 3 ::: Missing model
+Time Stamp: 2023/02/01 22:08:35 ::: Err No.: 4 ::: Missing base price
+Time Stamp: 2023/02/01 22:09:11 ::: Err No.: 6 ::: Missing optionset array size
+Time Stamp: 2023/02/01 22:09:11 ::: Err No.: 5 ::: Missing option set name or length
+Time Stamp: 2023/02/02 15:09:46 ::: Err No.: 3 ::: Missing model
