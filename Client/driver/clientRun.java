@@ -5,7 +5,7 @@ import adapter.*;
 import exception.*;
 import scale.*;
 import client.DefaultSocketClient;
-public class Driver_5part2 {
+public class clientRun {
     
     public static void main(String[] args) {  
         DefaultSocketClient s1 = new DefaultSocketClient("127.0.0.1", 4444);
